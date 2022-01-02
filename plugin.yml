@@ -1,0 +1,8 @@
+﻿name: Log
+main: Log\Log
+version: 1.0.0
+api: [1.11.0]
+author: FUGAMARU
+commands:
+ l:
+  description: 座標を取得します
